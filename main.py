@@ -124,7 +124,6 @@ x = 3
 y = 5
 
 print(x == 3 and y == 5)
-
 print(x == 3 or y == 5)
 
 print(not x == 3)
